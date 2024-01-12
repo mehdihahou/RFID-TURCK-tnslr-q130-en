@@ -1,8 +1,6 @@
 # RFID Turck TNSLR_Q130
 
-**Description:** 
-
-    This project is a Codesys application that interfaces with an RFID module for reading and writing RFID tags. Additionally, it includes an HMI (Human-Machine Interface) for user interaction.
+**Description:**  This project is a Codesys application that interfaces with an RFID module for reading and writing RFID tags. Additionally, it includes an HMI (Human-Machine Interface) for user interaction.
 
 ## Table of Contents
 - [Features](#features)
